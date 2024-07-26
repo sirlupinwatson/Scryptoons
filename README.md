@@ -1,4 +1,4 @@
-# Scryptoons: Fusion of Blockchains and Cartoons!
+# Scryptoons: The Fusion of Blockchains and Cartoons!
 
 
 ### Contributing guide
